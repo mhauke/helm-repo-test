@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  hello-world:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-09-13T15:36:30.056178538+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 12d992b3297b75fdd07a24c6ea65c97167d42d13475b075097bf79fe35c6fe03
+    name: hello-world
+    urls:
+    - https://mhauke.github.com/helm-repo-test/hello-world-0.1.0.tgz
+    version: 0.1.0
+generated: "2019-09-13T15:36:30.055288149+02:00"

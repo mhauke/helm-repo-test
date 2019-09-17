@@ -8,7 +8,7 @@ entries:
     digest: 8cb01d5a792f26f0e09a648ce78435bb9a0f05e02b79f6c71ce329e8ecf8b8e4
     name: fleetman-mongodb
     urls:
-    - https://mhauke.github.com/helm-repo-test/fleetman-mongodb-1.0.0.tgz
+    - https://mhauke.github.io/helm-repo-test/fleetman-mongodb-1.0.0.tgz
     version: 1.0.0
   hello-world:
   - apiVersion: v1
@@ -18,7 +18,7 @@ entries:
     digest: 06256137900e1720c3ba144cf4533ea10c98758f87a18c0539f77147b5c6a636
     name: hello-world
     urls:
-    - https://mhauke.github.com/helm-repo-test/hello-world-1.0.0.tgz
+    - https://mhauke.github.io/helm-repo-test/hello-world-1.0.0.tgz
     version: 1.0.0
   - apiVersion: v1
     appVersion: "1.0"
@@ -27,6 +27,6 @@ entries:
     digest: 12d992b3297b75fdd07a24c6ea65c97167d42d13475b075097bf79fe35c6fe03
     name: hello-world
     urls:
-    - https://mhauke.github.com/helm-repo-test/hello-world-0.1.0.tgz
+    - https://mhauke.github.io/helm-repo-test/hello-world-0.1.0.tgz
     version: 0.1.0
 generated: "2019-09-16T20:19:17.754864578+02:00"
